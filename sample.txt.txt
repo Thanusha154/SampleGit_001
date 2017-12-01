@@ -1,1 +1,3 @@
-This is sample text file
+This is sample text file.
+
+Editing this text file again.
